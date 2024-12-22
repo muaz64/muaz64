@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muaz64" alt="muaz64" /></a> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://muaz64.github.io/Muaz-Portfolio/](https://muaz64.github.io/Muaz-Portfolio/)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind, JavaScript, React.js, jQuery, Python, WordPress**
+- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind, JavaScript, typescript React.js, jQuery, Python, WordPress**
 
 - 📫 How to reach me **muazmuhammad21@gmail.com**
 
