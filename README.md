@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://muaz64.github.io/Muaz-Portfolio/](https://muaz64.github.io/Muaz-Portfolio/)
+- 👨‍💻 All of my projects are available at [https://muaz64.github.io/Muaz-Portfolio/]([https://muaz64.github.io/Muaz-Portfolio/](https://muazmd.netlify.app/))
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind, JavaScript, typescript React.js, jQuery, Python, WordPress**
 
